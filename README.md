@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohasalehian
-- 👀 I’m interested in Java and React.
+- 👀 I’m interested in Java، kotlin, and React.
 - 🌱 I’m currently learning Kotlin and Scala.
 - 💞️ I’m looking to collaborate on Java, React, Kotlin and Scala Open Source projects.
 - 📫 You can reach me on Linkendin via https://www.linkedin.com/in/soha-salehian/
